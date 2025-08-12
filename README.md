@@ -105,15 +105,15 @@ Recent graduate in Information Technology with hands-on experience in Java, Pyth
 - Integrated research on recycling challenges; created interactive visualizations and dashboards.
 - Presented to faculty, earning an "A" grade for environmental impact. 
 
-## 📚 Education
+## 📚 Academic Journey
 
-🎓 **Bachelor of Engineering in Information Technology** (CGPA: 7.95)  
-📍 *[Sipna College of Engineering and Technology](https://sipnaengg.ac.in/), Amravati*  
-📅 2021 – 2025  
+🎓 **Bachelor of Engineering in Information Technology**  
+📍 *Sipna College of Engineering & Technology, Amravati*  
+📅 2021 - 2025 | 🎯 CGPA: 7.95/10.0  
 
-📚 **12th in General Science** (83%)  
-📍 *Z. P. Junior Science College, Chandur Railway*  
-📅 2020 – 2021  
+📖 **Higher Secondary Education (12th)**  
+📍 *Z. P. Junior Science College*  
+📅 2020 - 2021 | 📊 Percentage: 83%  
 
 ## 📜 Certifications
 
@@ -135,16 +135,13 @@ Recent graduate in Information Technology with hands-on experience in Java, Pyth
 
 ## 📈 GitHub Stats
 
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=harshit001-2023&show_icons=true&theme=radical&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit001-2023&theme=radical" />
+</div>
 
 <div align="center">
-  
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit001-2023&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit001-2023&layout=compact&theme=radical&hide=html,css)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harshit001-2023&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit001-2023&radius=16&theme=react&area=true&order=5)
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshit001-2023&theme=react-dark&area=true&hide_border=true" />
 </div>
 
 ## 🎨 Hobbies & Interests
@@ -162,12 +159,15 @@ I'm always open to interesting discussions, collaborations, or just a friendly c
 
 📫 **Email**: [harshitpande938@gmail.com](mailto:harshitpande938@gmail.com)  
 📱 **Phone**: +91 9527959182  
-💼 **LinkedIn**: [Harshit Pande](https://www.linkedin.com/in/harshit-pande-001hp141022)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-pande-001hp141022)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshit001-2023)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:harshitpande938@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/harshit001_2023)
 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:harshitpande938@gmail.com)
-[![X formly Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/harshit001_2023)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshit001-2023&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
-Thanks for stopping by! If you find my projects interesting, feel free to star them or reach out for collaboration. ⭐
-
-## 🔥 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=harshit001-2023&label=Profile%20Views&color=red&style=flat)
+<p align="center">
+  <i>Let's build something amazing together!</i> ✨
+</p>
