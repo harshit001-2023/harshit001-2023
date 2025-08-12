@@ -2,15 +2,15 @@
 
 ![Profile Banner](https://img.shields.io/badge/Profile-Harshit%20Pande-blue?logo=github&style=for-the-badge)
 
-Aspiring Backend Developer and recent Computer Science graduate with hands-on experience in Java, Python, Machine Learning, and software development. Passionate about building scalable applications, integrating AI, and exploring DevOps and Cloud technologies. Eager to contribute to innovative projects in backend and cloud development.
+Recent graduate in Information Technology with hands-on experience in Java, Python, Machine Learning, and software development. Passionate about backend development, AI integration, DevOps, and Cloud technologies. Eager to tackle innovative projects and contribute to impactful solutions.
 
-- 🎓 Just graduated with a Bachelor of Engineering in Information Technology from Sipna College of Engineering and Technology (2021–2025).
-- 🔭 Currently focusing on DSA, Spring Boot, FastAPI, and TensorFlow.
-- 🌱 Learning DevOps, Cloud Computing, and advanced AI frameworks.
-- 👯 Open to collaborating on open-source projects related to AI, backend development, or web apps.
-- 💬 Ask me about Java, Python, Flask, or Deep Learning.
-- 📫 Reach me at: harshitpande938@gmail.com | +91 9527959182
-- ⚡ Fun fact: I love swimming, photography, and cycling while exploring new tech blogs!
+- 🎓 Bachelor of Engineering in Information Technology from Sipna College of Engineering and Technology (2021–2025).
+- 🔭 Focusing on DSA with Java, Spring Boot, FastAPI, TensorFlow, and more.
+- 🌱 Actively learning DevOps, Cloud Computing, and advanced AI frameworks.
+- 👯 Open to collaborations on AI, backend, or web development projects.
+- 💬 Ask me about Java, Python, Flask, Deep Learning, or Spring Boot.
+- 📫 How to reach me: harshitpande938@gmail.com | +91 9527959182
+- ⚡ Fun fact: When not coding, I'm swimming, capturing moments through photography/videography, or cycling while reading tech blogs!
 
 ## 📊 GitHub Stats
 
@@ -66,35 +66,33 @@ Aspiring Backend Developer and recent Computer Science graduate with hands-on ex
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=harshit001-2023&repo=Deep-Fake-Detection-System&theme=radical)
 
 - **Tech Stack**: Python, Flask, TensorFlow, MobileNetV2, MTCNN, HTML, JavaScript
-- Led a team of five to develop a high-accuracy DeepFake detection web app achieving 95% accuracy on Celeb-DF dataset.
-- Designed scalable backend with spatial and temporal analysis; fine-tuned model for better performance.
+- My final year project B.E batch 2021 - 2025. Led a team of five to develop a high-accuracy DeepFake detection web application achieving 95% accuracy on the Celeb-DF dataset through advanced spatial and temporal analysis.
+- Designed scalable Flask backend with MobileNetV2 for spatial features, LSTM for temporal detection, and MTCNN for face localization.
+- Fine-tuned model threshold to boost accuracy; authored comprehensive documentation.
 - [Source Code](https://github.com/harshit001-2023/Deep-Fake-Detection-System)
 
 ### Gemini-AI Chat App
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=harshit001-2023&repo=Gemini-Chat&theme=radical)
 
 - **Tech Stack**: Java, Spring Boot, HTML, React, Gemini AI API
-- Built scalable chat backend integrating Gemini AI for real-time responses with 75% intent accuracy.
-- Enabled intelligent text generation and secure key management.
+- Developed a scalable chat application backend integrating Gemini AI for smart, real-time responses with 75% intent accuracy across 50+ scenarios.
+- Designed modular endpoints for expansion; leveraged AI for personalized text generation.
+- Configured secure access with application.properties for sensitive keys.
 - [Source Code](https://github.com/harshit001-2023/Gemini-Chat)
 
 ### Voice Converter Pro
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=harshit001-2023&repo=voice-converter-pro&theme=radical)
 
 - **Tech Stack**: Python, pyttsx3, gTTS, SpeechRecognition, Pygame
-- Developed TTS and STT app with multi-voice support, real-time playback, and error handling.
+- A comprehensive Text-to-Speech (TTS) and Speech-to-Text (STT) application built with Python, featuring a modern GUI and advanced functionality for voice conversion tasks.
+- Implemented multi-voice support, real-time audio playback, dynamic voice selection, and error handling.
 - [Source Code](https://github.com/harshit001-2023/voice-converter-pro)
-
-### E-WASTE MANAGEMENT SYSTEM
-- **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, SQL
-- Led development of an innovative system for e-waste identification, recycling, and credit-based collection.
-- Integrated visualizations and dashboards; received "A" grade for environmental impact.
 
 ### Simple Weather Web Application
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=harshit001-2023&repo=Simple-Weather-Web-Application&theme=radical)
 
 - **Tech Stack**: HTML, CSS, JavaScript
-- Created a simple weather app using Weather API.
+- Created a Weather API based simple Weather Web Application which uses HTML, CSS, and JavaScript.
 - [Source Code](https://github.com/harshit001-2023/Simple-Weather-Web-Application)
 
 ### String Decoder
@@ -103,8 +101,14 @@ Aspiring Backend Developer and recent Computer Science graduate with hands-on ex
 - **Tech Stack**: Java
 - [Source Code](https://github.com/harshit001-2023/String-Decoder)
 
+### E-WASTE MANAGEMENT SYSTEM
+- **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, SQL, MySQL
+- Led development of an innovative E-waste Management System with features for identification, recycling centers, and credit-based collection.
+- Integrated research on recycling challenges; created interactive visualizations and dashboards.
+- Presented to faculty, earning an "A" grade for environmental impact.
+
 ## 🎓 Education
-- **Bachelor of Engineering in Information Technology**  
+- **Bachelor of Engineering in Information Technology** (CGPA:7.95) 
   Sipna College of Engineering and Technology, Amravati, MH  
   2021 – 2025
 
@@ -113,15 +117,15 @@ Aspiring Backend Developer and recent Computer Science graduate with hands-on ex
   2020 – 2021
 
 ## 🏆 Achievements
-- Participant in Google Cloud Study Jam 2023 (GDSC Sipna-2023)
-- Appeared for Graduate Aptitude Test in Engineering (GATE-2024)
+- Participant in Google Cloud Study Jam 2023 organized by Google Developer Student Club (GDSC Sipna-2023).
+- Appeared for the Graduate Aptitude Test in Engineering (GATE-2024).
 
 ## 📜 Certificates
 - Intermediate Object-Oriented Programming with Java (March 2023)
 - Java Classes and Objects (June 2023)
 - Python Programming (July 2023)
-- Introduction to Artificial Intelligence (Aug 2023)
-- Google Cloud Computing Foundations & Generative AI (Nov 2023)
+- Introduction to Artificial Intelligence (August 2023)
+- Google Cloud Computing Foundations & Generative AI (November 2023)
 - Foundation of Cyber Security by Google (Module 1) (March 2024)
 
 ## 🌟 Hobbies & Interests
@@ -133,11 +137,11 @@ Aspiring Backend Developer and recent Computer Science graduate with hands-on ex
 - 🚴 Cycling
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-pande-001hp141022)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-pande-001hp141022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit001-2023/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/harshitpande938) <!-- Assumed username -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshitpandey/) <!-- Closest match -->
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 ![Visitor Badge](https://visitor-badge.laobi.letswrite.tw/badge?page_id=harshit001-2023.harshit001-2023)
 
-Thanks for visiting! ⭐ If you like my work, give my repos a star!
+Thanks for stopping by! If you find my projects interesting, feel free to star them or reach out for collaboration. ⭐
