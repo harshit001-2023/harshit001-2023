@@ -158,7 +158,6 @@ Recent graduate in Information Technology with hands-on experience in Java, Pyth
 I'm always open to interesting discussions, collaborations, or just a friendly chat about technology!
 
 📫 **Email**: [harshitpande938@gmail.com](mailto:harshitpande938@gmail.com)  
-📱 **Phone**: +91 9527959182  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-pande-001hp141022)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshit001-2023)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:harshitpande938@gmail.com)
