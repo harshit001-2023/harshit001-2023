@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3DDC84&center=true&vCenter=true&width=900&lines=Java+%26+Python+Developer;Backend+%26+Cloud+Enthusiast;AI%2FML+Project+Builder;Open+Source+Contributor">
+</p>
+
+
 # 👋 Hello, I'm Harshit Pande
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-pande-001hp141022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -119,7 +124,7 @@ Recent graduate in Information Technology with hands-on experience in Java, Pyth
 
 | Certification | Issuer | Date |
 |--------------|--------|------|
-| [Google Cloud Computing Foundations & Generative AI](https://drive.google.com/file/d/1_Sjj4KXY6HBJuXG9kuOEHwyjNf5Fv1ON/view?usp=drivesdk) | Google (Coursera) | Nov 2023 |
+| [![Google Cloud AI](https://img.shields.io/badge/Google%20Cloud%20AI-Certificate-blue)](https://drive.google.com/file/d/1_Sjj4KXY6HBJuXG9kuOEHwyjNf5Fv1ON/view?usp=drivesdk) | Google (Coursera) | Nov 2023 |
 | [Intermediate OOP with Java](https://www.coursera.org/account/accomplishments/certificate/4JLSBG9DAXS5) | Coursera | Mar 2023 |
 | [Java Classes and Objects](https://www.coursera.org/account/accomplishments/certificate/XF4VS9YUGCAY) | Coursera | Jun 2023 |
 | [Foundations of Cybersecurity by Google (Module-1)](https://coursera.org/share/1f3ff768657fe0f8c3b30abfa9ac84fb) | Google (Coursera) | Mar 2024 |
